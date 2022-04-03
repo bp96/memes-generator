@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memes-generator/static/js/main.beee3807.js",
+    "index.html": "/memes-generator/index.html",
+    "main.beee3807.js.map": "/memes-generator/static/js/main.beee3807.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beee3807.js"
+  ]
+}
